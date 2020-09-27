@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Train[[:space:]]-[[:space:]]Copy.fbtx filter=lfs diff=lfs merge=lfs -text
+Train2.fbtx filter=lfs diff=lfs merge=lfs -text
+Experiment-1-WebGL.data.unityweb filter=lfs diff=lfs merge=lfs -text
