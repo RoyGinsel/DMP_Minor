@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: ef58ae7509d718349b3fca199f508c82
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7986151726134478265
+    second: Wheels.003|Wheels.003Action.001
+  - first:
+      74: 840404638290029428
+    second: Wheels.003|Wheels.003Action.002
+  - first:
+      74: 7130581469237978649
+    second: Wheels.003|Wheels.003Action.003
+  - first:
+      74: -1122932588123148306
+    second: Wheels.003|Wheels.003Action.004
+  - first:
+      74: 3825576054070508257
+    second: Wheels.003|Wheels.003Action.005
+  - first:
+      74: 8410548618415619693
+    second: Wheels.003|Wheels.004Action
+  - first:
+      74: 9093899472911062082
+    second: Wheels.003|Wheels.004Action.001
+  - first:
+      74: 7402278913362262395
+    second: Wheels.001|Wheels.003Action.001
+  - first:
+      74: -7734273092914670213
+    second: Wheels.001|Wheels.003Action.002
+  - first:
+      74: 425535823571175919
+    second: Wheels.001|Wheels.003Action.003
+  - first:
+      74: -1930423770957851280
+    second: Wheels.001|Wheels.003Action.004
+  - first:
+      74: -6933376197309204589
+    second: Wheels.001|Wheels.003Action.005
+  - first:
+      74: -7370400770491538686
+    second: Wheels.001|Wheels.004Action
+  - first:
+      74: -2251952476893215334
+    second: Wheels.001|Wheels.004Action.001
+  - first:
+      74: 1819764249044752192
+    second: Wheels.004|Wheels.003Action.001
+  - first:
+      74: -1563863823522798625
+    second: Wheels.004|Wheels.003Action.002
+  - first:
+      74: -6117353834000715505
+    second: Wheels.004|Wheels.003Action.003
+  - first:
+      74: -4594619760082438699
+    second: Wheels.004|Wheels.003Action.004
+  - first:
+      74: -5930714908899232658
+    second: Wheels.004|Wheels.003Action.005
+  - first:
+      74: -7318576038263514652
+    second: Wheels.004|Wheels.004Action
+  - first:
+      74: 7871534575144201745
+    second: Wheels.004|Wheels.004Action.001
+  - first:
+      74: 789759236499228990
+    second: Wheels.002|Wheels.003Action.001
+  - first:
+      74: 6199154328029485653
+    second: Wheels.002|Wheels.003Action.002
+  - first:
+      74: -7094493853276712644
+    second: Wheels.002|Wheels.003Action.003
+  - first:
+      74: 235919162073993897
+    second: Wheels.002|Wheels.003Action.004
+  - first:
+      74: 3859889364719408650
+    second: Wheels.002|Wheels.003Action.005
+  - first:
+      74: 3250291126691537503
+    second: Wheels.002|Wheels.004Action
+  - first:
+      74: 6713258233976346926
+    second: Wheels.002|Wheels.004Action.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 1307e10108201b548a68dd03cf6c90b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c789be5601703884c9563b96fdd5506f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c789be5601703884c9563b96fdd5506f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wheels.003|Wheels.003Action.001
+      takeName: Wheels.003|Wheels.003Action.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wheels.001|Wheels.003Action.001
+      takeName: Wheels.001|Wheels.003Action.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wheels.004|Wheels.003Action.001
+      takeName: Wheels.004|Wheels.003Action.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wheels.002|Wheels.003Action.001
+      takeName: Wheels.002|Wheels.003Action.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
